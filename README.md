@@ -31,9 +31,9 @@ If you do not have this library installed, first install it using pip install ss
 
 # 2. Bonus Task: Generating reports every minute using data of last five minutes
 
-	link to run first script: https://repl.it/@NehaNainsukha/bonustaskpothi#main.py
+   link to run first script: https://repl.it/@NehaNainsukha/bonustaskpothi#main.py
 	
-	copy and paste in the browser and hit run, it will automatically install required libraries and modules and wait for a minute to 		let it generate the first report.
+   copy and paste in the browser and hit run, it will automatically install required libraries and modules and wait for a minute to let it generate the first report
 
 
 **a. How to run it in Terminal**
