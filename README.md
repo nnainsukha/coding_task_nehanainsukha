@@ -8,7 +8,7 @@ If you have Python already installed in your machine, you can go ahead and run i
 
 # 1. First Task: Generating reports every minute using data of last one minute
 
-   link to run first script: https://repl.it/@NehaNainsukha/oneminutetaskpothi#main.py
+   link to run first script: https://repl.it/@NehaNainsukha/oneminutetask-1#main.py
    
    copy and paste in the browser and hit run, it will automatically install required libraries and modules and wait for a minute to let it 	generate the first report.
 
